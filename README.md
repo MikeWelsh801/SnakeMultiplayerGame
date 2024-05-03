@@ -1,4 +1,13 @@
 # game-hebrew_nationals_game
+
+* a team (2 person) game project I worked on for CS3500
+
+## Game Play
+
+![Snake Game Play](./screenshots/GamePlay.gif?raw=true "Snake Game Play")
+
+## Description
+
 game-hebrew_nationals_game created by GitHub Classroom
 
 This is a networked multiplayer snake game, that allows the user to connect to a server, and play snake with others and collect powerups which make the snake
